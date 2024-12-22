@@ -1,6 +1,6 @@
 # ASP.NET Core .NET Core Application
 
-This is a sample ASP.NET Core application using .NET Core 7.0.
+This ASP.NET Core application uses .NET Core 7.0.
 
 ## Prerequisites
 
