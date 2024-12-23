@@ -11,7 +11,7 @@ This ASP.NET Core application uses .NET Core 7.0.
 
 - Clone the application with ``git clone url`` 
 - Navigate into the root directory with CD  
-- Use ``git emote add origin url`` to clone the repo
+- Use ``git remote add origin url`` to clone the repo
 - Use ``git branch -M main`` to creaete a branch 
 -  use `` git push origin main`` to push the code    
     to github.
