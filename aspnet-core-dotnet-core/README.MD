@@ -9,6 +9,14 @@ This ASP.NET Core application uses .NET Core 7.0.
 
 ## Building and Running the Application
 
+- Clone the application with ``git clone url`` 
+- Navigate into the root directory with CD  
+- Use ``git emote add origin url`` to clone the repo
+- Use ``git branch -M main`` to creaete a branch 
+-  use `` git push origin main`` to push the code    
+    to github.
+
+
 ### Using .NET CLI
 
 1. Restore the dependencies:
@@ -42,6 +50,9 @@ This ASP.NET Core application uses .NET Core 7.0.
     ```sh
     docker run -p 80:80 aspnet-core-dotnet-core
     ```
+
+## Push changes to Version control
+git push origin main
 
 ## CI/CD with GitHub Actions
 
